@@ -1,0 +1,30 @@
+_repo: Reminiscences-of-a-Canadian-Pioneer-for-the-last-Fifty-YearsAn-Autobiography_35586
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thompson, Samuel
+    birthdate: 1810
+    deathdate: 1886
+    gutenberg_agent_id: '37768'
+    url: http://www.gutenberg.org/2009/agents/37768
+description: ''
+gutenberg_issued: '2011-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Ontario'
+- !lcsh 'Thompson, Samuel, 1810-1886'
+- !lcc 'F1001'
+- !lcsh 'Toronto (Ont.) -- History'
+- !lcc 'CT'
+- !lcsh 'Toronto (Ont.) -- Biography'
+title: 'Reminiscences of a Canadian Pioneer for the last Fifty Years: An Autobiography'
+url: http://www.gutenberg.org/ebooks/35586
